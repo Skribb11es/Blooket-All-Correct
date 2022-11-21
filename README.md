@@ -8,4 +8,4 @@ Simple JS script to be executed in your browser's console, making every answer c
 * Once you execute, you will need to answer the current question, and from then on out every question and answer will be the exact same, requiring you to just click any answer choice.
 
 ### Honorable mention
-After I had made this, I found the [Blooketware](https://github.com/Blooketware/BlooketUI)) repo, which includes a very similar feature, if not the exact same. Do also note that their project has more features than just all correct, and has a built in UI. Over all I would reccomend checking out their work.
+After I had made this, I found the **[Blooketware](https://github.com/Blooketware/BlooketUI)** repo, which includes a very similar feature, if not the exact same. Do also note that their project has more features than just all correct, and has a built in UI. Over all I would reccomend checking out their work.
