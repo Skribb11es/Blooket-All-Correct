@@ -1,5 +1,5 @@
 # Blooket-All-Correct
-Simple JS script to be executed in your browser's console, making every answer choice correct
+Simple JS script developed for fun and to perform some ***"epic trolling"*** in class by making every answer choice correct, no matter what.
 
 ## Usage
 
